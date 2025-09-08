@@ -1,0 +1,84 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20200511 at Fri Apr  7 09:25:51 2023
+ By convertio
+Copyright John Harris 2018
+</metadata>
+<defs>
+<font id="AsteroidsLine" horiz-adv-x="1322" >
+  <font-face 
+    font-family="Asteroids Line"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="2048"
+    panose-1="0 0 4 0 0 0 0 0 0 0"
+    ascent="1536"
+    descent="-512"
+    x-height="981"
+    cap-height="1536"
+    bbox="-85 -512 1181 1536"
+    underline-thickness="102"
+    underline-position="153"
+    unicode-range="U+0020-201D"
+  />
+<missing-glyph horiz-adv-x="1224" 
+d="M1112 50l-522 698l-521 -698h1043zM50 69l521 699l-521 698v-1397zM1131 69v1397l-521 -698zM590 787l522 699h-1043zM0 0v1536h1181v-1536h-1181z" />
+    <glyph glyph-name=".notdef" horiz-adv-x="1224" 
+d="M1112 50l-522 698l-521 -698h1043zM50 69l521 699l-521 698v-1397zM1131 69v1397l-521 -698zM590 787l522 699h-1043zM0 0v1536h1181v-1536h-1181z" />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="512" />
+    <glyph glyph-name="A" unicode="A" 
+d="M512 0v512l-512 1024M512 0v512l512 1024M256 768h512" />
+    <glyph glyph-name="B" unicode="B" 
+d="M0 0v1536M0 0h512l256 256v256h-256l256 256v256h-256l256 256v256h-512" />
+    <glyph glyph-name="C" unicode="C" 
+d="M1024 0v1536h-1024v-1536" />
+    <glyph glyph-name="D" unicode="D" 
+d="M0 0v1536M0 0h512l512 512v512l-512 512h-512" />
+    <glyph glyph-name="E" unicode="E" 
+d="M0 0v1536M0 0h1024M0 768h1024M0 1536h1024" />
+    <glyph glyph-name="F" unicode="F" 
+d="M0 0v1536M0 0h1024M0 768h1024" />
+    <glyph glyph-name="G" unicode="G" 
+d="M1024 0v1536h-1024v-1536M1024 768h-512v-256h512" />
+    <glyph glyph-name="H" unicode="H" 
+d="M0 0v1536M1024 0v1536M0 768h1024" />
+    <glyph glyph-name="I" unicode="I" 
+d="M512 0h-512v1536h1024v-1536h-512" />
+    <glyph glyph-name="J" unicode="J" 
+d="M512 0v1280l-512 256h1024v-1536" />
+    <glyph glyph-name="K" unicode="K" horiz-adv-x="1109" 
+d="M0 0v1536M0 768l1024 -768M0 768l1024 768" />
+    <glyph glyph-name="L" unicode="L" 
+d="M0 0v1536M0 1536h1024" />
+    <glyph glyph-name="M" unicode="M" 
+d="M0 0v1536M0 0l512 1024l512 -1024v1536" />
+    <glyph glyph-name="N" unicode="N" 
+d="M0 0v1536M0 0l1024 1536M1024 0v1536" />
+    <glyph glyph-name="O" unicode="O" 
+d="M1024 0v1536h-1024v-1536M1024 0h-1024M1024 1536h-1024" />
+    <glyph glyph-name="P" unicode="P" 
+d="M0 0v1536M0 0h512l512 256v512h-512l-512 -256" />
+    <glyph glyph-name="Q" unicode="Q" 
+d="M1024 0v1536h-1024v-1536M1024 0h-1024M1024 1536h-1024M512 1024l512 512" />
+    <glyph glyph-name="R" unicode="R" 
+d="M0 0v1536M0 0h512l512 256v512h-512l-512 -256M512 768l512 768" />
+    <glyph glyph-name="S" unicode="S" 
+d="M1024 0v256h-1024v512h1024v256h-1024v512h1024" />
+    <glyph glyph-name="T" unicode="T" 
+d="M512 0v1536M0 0h1024" />
+    <glyph glyph-name="U" unicode="U" 
+d="M0 0v1024h512v512M1024 0v1024h-512v512" />
+    <glyph glyph-name="V" unicode="V" 
+d="M0 0l512 1536M1024 0l-512 1536" />
+    <glyph glyph-name="W" unicode="W" 
+d="M0 0v1536M0 0l512 768l512 -768v1536M512 768l512 768" />
+    <glyph glyph-name="X" unicode="X" 
+d="M0 0l1024 1536M1024 0l-1024 1536" />
+    <glyph glyph-name="Y" unicode="Y" 
+d="M512 0v768l-512 768M512 0v768l512 768" />
+    <glyph glyph-name="Z" unicode="Z" 
+d="M0 0h1024M1024 0l-1024 1536M0 1536h1024" />
+  </font>
+</defs></svg> 
